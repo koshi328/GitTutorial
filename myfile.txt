@@ -3,3 +3,4 @@
 issue2‚É‚æ‚é•ÒW
 issue3‚É‚æ‚éC³
 develop
+stash
