@@ -6,3 +6,4 @@ develop
 stash
 XV
 myfile
+‚Ö‚ñ‚±‚¤‚P
