@@ -1,8 +1,1 @@
-ブランチの練習
-新しいブランチの最初のコミット
-issue2による編集
-issue3による修正
-develop
-stash
-更新
-myfile
+delete
